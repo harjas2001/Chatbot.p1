@@ -6,7 +6,7 @@ import openai as ai
 import gradio as web
 
 #Link chatbot with GPT interface via API key, specfic to each openai user
-ai.api_key = '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'
+ai.api_key = ''
 
 
 #Set up a message system which initialises role of input and chatbot use
